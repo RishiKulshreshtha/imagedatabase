@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rajiv\Desktop\imagedatabase\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\Rajiv\Desktop\imagedatabase\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_e3774c48dfe1e5c44c2f1481cbc23b3e5c1c01f8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Rajiv\Desktop\imagedatabase\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="17cccf9083f727b13df7d671262f118586dff7bf">
+        <dex dex="C:\Users\Rajiv\Desktop\imagedatabase\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_9ba286170c29bf22023c036f715aa2b202c23f92\classes.dex" />
+    </item>
+
+</items>
