@@ -12,4 +12,4 @@ It show all the selected images with there caption and size description in such 
 
 
 
-<a href="https://drive.google.com/open?id=1HstQIl5cXDVLiW5avuYQDnzAxgLrjnms" title="App Preview "/></a>
+<a href="https://drive.google.com/open?id=1HstQIl5cXDVLiW5avuYQDnzAxgLrjnms" title="App Preview "/>GIF App Preview</a>
